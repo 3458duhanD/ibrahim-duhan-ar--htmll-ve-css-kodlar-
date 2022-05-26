@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+td{
+	border:1px #EBD7AD solid;
+	vertical-align: top;
+	font-family:"alex-brush",allura,arizonia,"herr-von-muellerhoff","euphoria-script","miss-fajardose","monsieur-la-doulaise",tangerine;
+	color: beige;
+	font-size: 17pt;
+}
+td:hover{
+	background-color: #EBD7AD;
+	color: black;
+	
+}
+footer{background-color: black;}
+
+
+body{
+	background:url("yildizli.jpeg");
+	background-size: auto;
+		
+		
+}
+a,a:visited,a:hover{
+	text-decoration: none;
+	color:#eeeeee;
+	cursor:pointer;
+}
+
+.nav-link{
+	margin:1.5rem;
+	color:#EBD7AD !important;
+}
+
+.background {   width: 1500px; margin: auto; background-color:#232323;}
+a{
+	text-decoration: none;
+	font-size: 36px;
+}
